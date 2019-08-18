@@ -5,16 +5,17 @@ I mainly used the technology of Feature Engineering & Ensemble Learning to solve
 
 * [Competition Description](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) 
 
-> Here is the Competition Description on Kaggle.
+> This is the Competition Description on Kaggle.
 
 * [train.xls](https://github.com/Gaiss/House-Prices-Kaggle/blob/master/train.csv) & [test.xls](https://github.com/Gaiss/House-Prices-Kaggle/blob/master/train.csv) 
 
-> The needed data sets. You can also downloaded from the [link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) on Kaggle
+> The needed data sets. You can also download them from the [link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) on Kaggle
 
 * [Description.pdf](https://github.com/Gaiss/House-Prices-Kaggle/blob/master/Description.pdf)
 
->An description of the whole process of my thinking and code.
-Sorry... this PDF is a Chinese version and ... I haven't translate it into English
+> A description of the whole process of my thinking and code.
+
+> Sorry... this PDF is a Chinese version and ... I haven't translated it into English.
 
 * [code.ipynb](https://github.com/Gaiss/House-Prices-Kaggle/blob/master/code.ipynb)
 
@@ -24,7 +25,7 @@ Sorry... this PDF is a Chinese version and ... I haven't translate it into Engli
 
 > My result for the predictions of the house price. You can get the same result by running my code on your own.
 
-I've submitted my predictions on Kaggle and my score is 0.11542, ranking 471th among all the teams. See as below!(I used my roommate's Kaggle account to submit)
+I've submitted my predictions to Kaggle and my score is 0.11542, ranking 471th among all the teams. See as below!(I used my roommate's Kaggle account to submit)
 ![](https://github.com/Gaiss/House-Prices-Kaggle/blob/master/score%20%26%20rank.png)
 
 `If you think it helps, don't forget to ★star and I'll appreciate your generosity!`
