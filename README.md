@@ -1,6 +1,8 @@
 # House Prices: Advanced Regression Techniques (Kaggle)
 ### This is my own attempt on solution of House Prices(Kaggle)
 
+I mainly used the technology of Feature Engineering & Ensemble Learning to solve this problem.
+
 * [Competition Description](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) 
 
 > Here is the Competition Description on Kaggle.
@@ -8,8 +10,6 @@
 * [train.xls](https://github.com/Gaiss/House-Prices-Kaggle/blob/master/train.csv) & [test.xls](https://github.com/Gaiss/House-Prices-Kaggle/blob/master/train.csv) 
 
 > The needed data sets. You can also downloaded from the [link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) on Kaggle
-
-I mainly used the technology of Feature Engineering to solve this problem.
 
 * [Description.pdf](https://github.com/Gaiss/House-Prices-Kaggle/blob/master/Description.pdf)
 
