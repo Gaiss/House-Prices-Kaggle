@@ -1,5 +1,5 @@
 # House Prices: Advanced Regression Techniques (Kaggle)
-### This is my own attempt on solution of House Prices(Kaggle)
+### This is my own attempt on the solution of House Prices(Kaggle)
 
 I mainly used the technology of Feature Engineering & Ensemble Learning to solve this problem.
 
@@ -27,7 +27,7 @@ Sorry... this PDF is a Chinese version and ... I haven't translate it into Engli
 I've submitted my predictions on Kaggle and my score is 0.11542, ranking 471th among all the teams. See as below!(I used my roommate's Kaggle account to submit)
 ![](https://github.com/Gaiss/House-Prices-Kaggle/blob/master/score%20%26%20rank.png)
 
-`If you think it helps, don't forget to star and I'll appreciate your generation!`
+`If you think it helps, don't forget to ★star and I'll appreciate your generosity!`
 
 `If you have any good advice, please let me know to make it better. Thanks a lot~`
 
