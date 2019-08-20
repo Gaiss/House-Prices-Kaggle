@@ -9,17 +9,11 @@ I mainly used the technology of Feature Engineering & Ensemble Learning to solve
 
 * [train.xls](https://github.com/Gaiss/House-Prices-Kaggle/blob/master/train.csv) & [test.xls](https://github.com/Gaiss/House-Prices-Kaggle/blob/master/train.csv) 
 
-> The needed data sets. You can also download them from the [link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) on Kaggle
-
-* [Description.pdf](https://github.com/Gaiss/House-Prices-Kaggle/blob/master/Description.pdf)
-
-> A description of the whole process of my thinking and code.
-
-> Sorry... this PDF is a Chinese version and ... I haven't translated it into English.
+> The needed data sets. You can also download them from the [link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) on Kaggle.
 
 * [code.ipynb](https://github.com/Gaiss/House-Prices-Kaggle/blob/master/code.ipynb)
 
-> My code with detailed Chinese annotations. (Sorry again...
+> My code with detailed Chinese annotations. (Sorry I haven't translated it into English...
 
 * [Predictions.csv](https://github.com/Gaiss/House-Prices-Kaggle/blob/master/Predictions.csv)
 
