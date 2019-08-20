@@ -1,5 +1,5 @@
 # House Prices: Advanced Regression Techniques (Kaggle)
-### This is my own attempt on the solution of House Prices(Kaggle)
+### This is my attempt on the solution of House Prices(Kaggle)
 
 I mainly used the technology of Feature Engineering & Ensemble Learning to solve this problem.
 
